@@ -1,0 +1,49 @@
+#calendar {
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+#form-group {
+    width: 90%;
+    margin: 0 auto;
+}
+
+#calendar a {
+    color: #7E8A90;
+    display: block;
+    padding: 10px 10px 60px 40px;
+    font-size: 0.8em;
+}   
+
+#calendar td {
+    width : 10%;
+    border: 1px solid #ccc;
+}
+
+#calendar #free {
+    background-color: #FFFFFF;
+}
+
+#calendar #working {
+    background-color: #F5E1E1   ;
+}
+
+#calendar .date {
+    float: right;
+    display: block;
+}
+
+.calendar-days {
+    font-size: 0.8em;
+    color: #E69898;
+    padding-left: 10px;
+}
+
+h1 {
+    font-size: 2.3em;
+}
+
+h2 {
+    font-size: 1.6em;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,182 @@
+[
+    {
+        "dayFormattedNumber": "1st",
+        "dayString": "Friday",
+        "date": "2016-04-01",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "2nd",
+        "dayString": "Saturday",
+        "date": "2016-04-02",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "3rd",
+        "dayString": "Sunday",
+        "date": "2016-04-03",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "4th",
+        "dayString": "Monday",
+        "date": "2016-04-04",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "5th",
+        "dayString": "Tuesday",
+        "date": "2016-04-05",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "6th",
+        "dayString": "Wednesday",
+        "date": "2016-04-06",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "7th",
+        "dayString": "Thursday",
+        "date": "2016-04-07",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "8th",
+        "dayString": "Friday",
+        "date": "2016-04-08",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "9th",
+        "dayString": "Saturday",
+        "date": "2016-04-09",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "10th",
+        "dayString": "Sunday",
+        "date": "2016-04-10",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "11th",
+        "dayString": "Monday",
+        "date": "2016-04-11",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "12th",
+        "dayString": "Tuesday",
+        "date": "2016-04-12",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "13th",
+        "dayString": "Wednesday",
+        "date": "2016-04-13",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "14th",
+        "dayString": "Thursday",
+        "date": "2016-04-14",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "15th",
+        "dayString": "Friday",
+        "date": "2016-04-15",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "16th",
+        "dayString": "Saturday",
+        "date": "2016-04-16",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "17th",
+        "dayString": "Sunday",
+        "date": "2016-04-17",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "18th",
+        "dayString": "Monday",
+        "date": "2016-04-18",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "19th",
+        "dayString": "Tuesday",
+        "date": "2016-04-19",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "20th",
+        "dayString": "Wednesday",
+        "date": "2016-04-20",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "21st",
+        "dayString": "Thursday",
+        "date": "2016-04-21",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "22nd",
+        "dayString": "Friday",
+        "date": "2016-04-22",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "23rd",
+        "dayString": "Saturday",
+        "date": "2016-04-23",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "24th",
+        "dayString": "Sunday",
+        "date": "2016-04-24",
+        "isWorking": false
+    },
+    {
+        "dayFormattedNumber": "25th",
+        "dayString": "Monday",
+        "date": "2016-04-25",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "26th",
+        "dayString": "Tuesday",
+        "date": "2016-04-26",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "27th",
+        "dayString": "Wednesday",
+        "date": "2016-04-27",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "28th",
+        "dayString": "Thursday",
+        "date": "2016-04-28",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "29th",
+        "dayString": "Friday",
+        "date": "2016-04-29",
+        "isWorking": true
+    },
+    {
+        "dayFormattedNumber": "30th",
+        "dayString": "Saturday",
+        "date": "2016-04-30",
+        "isWorking": false
+    }
+]
